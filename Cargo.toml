@@ -1,0 +1,11 @@
+[package]
+name = "oauth2-rs"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = "4"
+oxide-auth = "0.5"
+oxide-auth-actix = "0.2"
